@@ -4,14 +4,14 @@
 - [License](#-license)
 - [Contact Me](#-contact-me)
 
-## About  |()|I N F O|()|
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Curabitur gravida arcu ac tortor dignissim convallis aenean. Ornare quam viverra orci sagittis eu volutpat. Mattis nunc sed blandit libero volutpat sed cras. Feugiat in ante metus dictum at tempor commodo.
+## About
+This is a personal website/online portfolio for me. The main overall purpose of this website is to practice HTML/CSS/Javascript webdesign and to experiment with what I can do.
 
-## Ideas  ,.oO(    )
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Curabitur gravida arcu ac tortor dignissim convallis aenean. Ornare quam viverra orci sagittis eu volutpat. Mattis nunc sed blandit libero volutpat sed cras. Feugiat in ante metus dictum at tempor commodo.
+The wbesite will also semi-function as an online portfolio, which will contain my personal projects, as well as any of my contact information.
 
-## License  [~~]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Curabitur gravida arcu ac tortor dignissim convallis aenean. Ornare quam viverra orci sagittis eu volutpat. Mattis nunc sed blandit libero volutpat sed cras. Feugiat in ante metus dictum at tempor commodo.
+## Ideas
+Here is a list of some of my ideas for this website:
+- [] Think of some ideas for this website..!
 
-## Contact Me  ,_<-(    )
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Curabitur gravida arcu ac tortor dignissim convallis aenean. Ornare quam viverra orci sagittis eu volutpat. Mattis nunc sed blandit libero volutpat sed cras. Feugiat in ante metus dictum at tempor commodo.
+## Contact Me
+You can contact me at:
