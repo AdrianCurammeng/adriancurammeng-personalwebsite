@@ -1,8 +1,6 @@
 ## Table of Contents
 - [About](#-about)
 - [Ideas](#-ideas)
-- [License](#-license)
-- [Contact Me](#-contact-me)
 
 ## About
 This is a personal website/online portfolio for me. The main overall purpose of this website is to practice HTML/CSS/Javascript webdesign and to experiment with what I can do.
@@ -11,7 +9,4 @@ The wbesite will also semi-function as an online portfolio, which will contain m
 
 ## Ideas
 Here is a list of some of my ideas for this website:
-- [] Think of some ideas for this website..!
-
-## Contact Me
-You can contact me at:
+- [ ] Think of some ideas for this website..!
