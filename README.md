@@ -7,6 +7,8 @@ This is a personal website/online portfolio for me. The main overall purpose of 
 
 The wbesite will also semi-function as an online portfolio, which will contain my personal projects, as well as any of my contact information.
 
+This website will use Node.js and the Express.js web framework.
+
 ## Ideas
 Here is a list of some of my ideas for this website:
 - [ ] Think of some ideas for this website..!
